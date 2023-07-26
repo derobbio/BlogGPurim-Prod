@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'Blog GrupoPurim',
+  title: 'Blog Grupo Purim',
   author: 'Grupo Purim',
   email: 'gustavo@purimcontabilidade.com.br',
-  link: 'https://bloggrupopurim.vercel.app/',
+  link: 'https://blog.grupopurim.com.br/',
   description: 'contabilidade, mercado imobiliario, gestão e muito mais.',
   lang: 'pt-BR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'America/Sao_Paulo', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
