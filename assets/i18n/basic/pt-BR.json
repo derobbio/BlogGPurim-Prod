@@ -1,9 +1,10 @@
 {
     "NAV": {
       "INDEX": "Blog",
-      "RSS": "Site Grupo",
+      "RSS": "RSS",
       "SEARCH": "Buscar",
-      "ABOUT": "Sobre"
+      "ABOUT": "Sobre",
+      "PRINCIPAL": "Principal"
     },
     "PAGINATION": {
       "PREV": "Anterior",
