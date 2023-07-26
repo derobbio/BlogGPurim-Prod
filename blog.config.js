@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'Gustavo Robbio',
-  author: 'Gustavo Robbio',
-  email: 'gustavorobbio@gmail.com',
-  link: 'https://gustavorobbio.vercel.app/',
-  description: 'Apenas um simples Blog.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  title: 'Blog Grupo Purim',
+  author: 'Grupo Purim',
+  email: 'gustavo@purimcontabilidade.com.br',
+  link: 'https://bloggrupopurim.vercel.app/',
+  description: 'Blog do Grupo Purim.',
+  lang: 'pt-BR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'America/Sao_Paulo', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']

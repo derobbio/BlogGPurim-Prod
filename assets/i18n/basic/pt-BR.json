@@ -1,0 +1,21 @@
+{
+    "NAV": {
+      "INDEX": "Blog",
+      "RSS": "RSS",
+      "SEARCH": "Buscar",
+      "ABOUT": "Sobre"
+    },
+    "PAGINATION": {
+      "PREV": "Anterior",
+      "NEXT": "Próximo"
+    },
+    "POST": {
+      "BACK": "Voltar",
+      "TOP": "Topo"
+    },
+    "PAGE": {
+      "ERROR_404": {
+        "MESSAGE": "Esta pagina não tem conteudo!"
+      }
+    }
+  }
