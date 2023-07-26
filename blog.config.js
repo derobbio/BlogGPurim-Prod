@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Blog Grupo Purim',
+  title: 'Blog GrupoPurim',
   author: 'Grupo Purim',
   email: 'gustavo@purimcontabilidade.com.br',
   link: 'https://bloggrupopurim.vercel.app/',
