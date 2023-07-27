@@ -114,6 +114,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
               onError={() => setFavicon(true)}
             />
           </Link>
+          <div className='items-center align-center'>
           <HeaderName
             ref={titleRef}
             siteTitle={BLOG.title}
@@ -121,6 +122,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
             postTitle={navBarTitle}
             onClick={handleClickHeader}
           />
+          </div>
         </div>
         <NavBar />
       </div>
