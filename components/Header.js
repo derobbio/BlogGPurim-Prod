@@ -114,7 +114,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
               onError={() => setFavicon(true)}
             />
           </Link>
-          <div className='flex items-center align-center'>
+          <div className='textoHome'>
           <HeaderName
             ref={titleRef}
             siteTitle={BLOG.title}
