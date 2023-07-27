@@ -103,7 +103,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
             className="fill-black dark:fill-white"
           />
         </svg>
-        <div className="flex items-center textoHome ">
+        <div className="flex items-center">
           <Link href="/" aria-label={BLOG.title}>
             <Image
               src={favicon}

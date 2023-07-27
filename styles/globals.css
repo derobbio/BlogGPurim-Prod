@@ -163,9 +163,3 @@ nav {
 .capture-pointer-events * {
   @apply pointer-events-none;
 }
-
-.textoHome {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
