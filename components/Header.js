@@ -103,7 +103,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
             className="fill-black dark:fill-white"
           />
         </svg>
-        <div className="flex items-center ">
+        <div className="flex items-center textoHome ">
           <Link href="/" aria-label={BLOG.title}>
             <Image
               src={favicon}
@@ -114,7 +114,6 @@ export default function Header ({ navBarTitle, fullWidth }) {
               onError={() => setFavicon(true)}
             />
           </Link>
-          <div className='textoHome'>
           <HeaderName
             ref={titleRef}
             siteTitle={BLOG.title}
@@ -122,7 +121,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
             postTitle={navBarTitle}
             onClick={handleClickHeader}
           />
-          </div>
+          
         </div>
         <NavBar />
       </div>
