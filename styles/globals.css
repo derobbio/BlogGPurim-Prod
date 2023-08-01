@@ -122,8 +122,7 @@ nav {
 }
 
 .vertical {
-  justify-content: center;
-  display: flex;
+  display: -webkit-inline-box;
 }
 
 @media (min-width: 768px) {
